@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Learn to build Awesome Education Software]]></title>
   <link href="http://piolab.github.io/blog/atom.xml" rel="self"/>
   <link href="http://piolab.github.io/blog/"/>
-  <updated>2014-05-07T15:59:10+07:00</updated>
+  <updated>2014-05-07T16:05:11+07:00</updated>
   <id>http://piolab.github.io/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Pio laboratory]]></name>
+    <email><![CDATA[piolab.com@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
