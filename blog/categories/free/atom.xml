@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Learn to build Awesome Education Software]]></title>
-  <link href="http://piolab.github.io/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Free | Learn to build Awesome Education Software]]></title>
+  <link href="http://piolab.github.io/blog/blog/categories/free/atom.xml" rel="self"/>
   <link href="http://piolab.github.io/blog/"/>
   <updated>2014-05-07T16:09:50+07:00</updated>
   <id>http://piolab.github.io/blog/</id>
