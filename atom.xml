@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to build Awesome Education Software]]></title>
   <link href="http://piolab.github.io/blog/atom.xml" rel="self"/>
   <link href="http://piolab.github.io/blog/"/>
-  <updated>2014-05-19T10:23:18+07:00</updated>
+  <updated>2014-05-19T10:53:37+07:00</updated>
   <id>http://piolab.github.io/blog/</id>
   <author>
     <name><![CDATA[Pio laboratory]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello again]]></title>
+    <link href="http://piolab.github.io/blog/blog/2014/05/19/hello-again/"/>
+    <updated>2014-05-19T10:52:13+07:00</updated>
+    <id>http://piolab.github.io/blog/blog/2014/05/19/hello-again</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
