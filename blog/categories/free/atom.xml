@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Free | Learn to build Awesome Education Software]]></title>
   <link href="http://piolab.github.io/blog/blog/categories/free/atom.xml" rel="self"/>
   <link href="http://piolab.github.io/blog/"/>
-  <updated>2014-05-26T22:48:21+07:00</updated>
+  <updated>2014-06-03T17:15:08+07:00</updated>
   <id>http://piolab.github.io/blog/</id>
   <author>
     <name><![CDATA[Pio laboratory]]></name>
@@ -18,7 +18,8 @@
     <link href="http://piolab.github.io/blog/blog/2014/05/07/hello-world/"/>
     <updated>2014-05-07T15:46:15+07:00</updated>
     <id>http://piolab.github.io/blog/blog/2014/05/07/hello-world</id>
-    <content type="html"><![CDATA[<p>We are developers from Viet Nam. This blog noted progress what we learnt to build awesome Education Software.</p>
+    <content type="html"><![CDATA[<p>Test
+We are developers from Viet Nam. This blog noted progress what we learnt to build awesome Education Software.</p>
 
 <p>But, first we need to learn markdown to write blog.</p>
 
