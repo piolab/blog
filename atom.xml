@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to build Awesome Education Software]]></title>
   <link href="http://piolab.github.io/blog/atom.xml" rel="self"/>
   <link href="http://piolab.github.io/blog/"/>
-  <updated>2014-06-01T16:25:36+07:00</updated>
+  <updated>2014-06-21T18:26:01+07:00</updated>
   <id>http://piolab.github.io/blog/</id>
   <author>
     <name><![CDATA[Pio laboratory]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://piolab.github.io/blog/blog/2014/06/21/test/"/>
+    <updated>2014-06-21T18:25:35+07:00</updated>
+    <id>http://piolab.github.io/blog/blog/2014/06/21/test</id>
+    <content type="html"><![CDATA[<h3>Hello world</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Create Online Course Site With MEAN Stack - Introduction]]></title>
@@ -54,7 +63,8 @@ My simple idea is teachers can manage your resource like video, document or crea
     <link href="http://piolab.github.io/blog/blog/2014/05/07/hello-world/"/>
     <updated>2014-05-07T15:46:15+07:00</updated>
     <id>http://piolab.github.io/blog/blog/2014/05/07/hello-world</id>
-    <content type="html"><![CDATA[<p>We are developers from Viet Nam. This blog noted progress what we learnt to build awesome Education Software.</p>
+    <content type="html"><![CDATA[<p>Test
+We are developers from Viet Nam. This blog noted progress what we learnt to build awesome Education Software.</p>
 
 <p>But, first we need to learn markdown to write blog.</p>
 
