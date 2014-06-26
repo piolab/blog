@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Learn to build Awesome Education Software]]></title>
+  <link href="http://piolab.github.io//github/atom.xml" rel="self"/>
+  <link href="http://piolab.github.io//github/"/>
+  <updated>2014-06-26T13:18:32+00:00</updated>
+  <id>http://piolab.github.io//github/</id>
+  <author>
+    <name><![CDATA[Pio laboratory]]></name>
+    <email><![CDATA[piolab.com@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Education startups list]]></title>
+    <link href="http://piolab.github.io//github/blog/2014/06/21/education-startups-list/"/>
+    <updated>2014-06-21T11:36:23+00:00</updated>
+    <id>http://piolab.github.io//github/blog/2014/06/21/education-startups-list</id>
+    <content type="html"><![CDATA[<p>Recently, I search so many times about education startups to learn from them. This post list all startups that I am interested.
+I categories them by <a href="http://qr.ae/2HsYr">an answer on quora</a>.</p>
+
+<h4>New Institutions:</h4>
+
+<p>online high schools, colleges, certification programs, enterprise training programs, and test preparation programs, experimental online programs, innovative offline programs. An example of a new institution for experimental online programs for universities: 2tor</p>
+
+<h4>Learning Management companies: web-based tools, analytics and reporting systems, learning management systems, corporate learning solutions.</h4>
+
+<h4>Online Content: online video in forms of TED.com, from Khan Academy. free content from top universities, open-licensed content, wikis, content libraries, digital textbooks,</h4>
+
+<h4>Networks and Marketplaces: tutor and training listings, paid/free online video and live training, college choice companies, online resume programs.</h4>
+
+<p>Live Training and Tutoring: streaming lectures and conferences, specialized teaching tools like Supercoolschool, tutor-student networks.
+Learner Tools: online backchannels, memorization help, mobile learning apps such as StudyBlue and test prep programs.
+Collaborative Learning: online study groups, modern question and answering platforms like Quora.com, language and teacher communities.
+Funding and Payments: A problem that does not have too many solutions is college funding but Enzi.org and GradeFund are making efforts to improve  financial questions surrounding education.
+Hardware for Education: One Laptop Per Child and tablet computers.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Create Online Course Site With MEAN Stack - Introduction]]></title>
+    <link href="http://piolab.github.io//github/blog/2014/05/26/build-a-site-to-create-online-course-part-1-with-mean-stack/"/>
+    <updated>2014-05-26T15:01:52+00:00</updated>
+    <id>http://piolab.github.io//github/blog/2014/05/26/build-a-site-to-create-online-course-part-1-with-mean-stack</id>
+    <content type="html"><![CDATA[<h3>Introduction</h3>
+
+<p>Now, I write this post as a diary about create online course site. I intend to make a simple, easy to use. This project was inspired by some site like Udemy, Khanacademy and other online course site. This source was build on MEAN stack technology contains Mongodb, Expressjs, Angularjs, Nodejs. It&rsquo;s a modern stack
+and I heard about this so much.
+I have not much experienced about web programming and MEAN stack. Before, I used Angularjs to some project (PHP backend or No back end) and read numerous tutorials. Others technology I am newbie. Luckily, I found mean.js open source. This help me straightforward to build something instantly.
+Therefore, This blog to learn some thing new step by step to build what I like. I hope, some people will interested and help me correct what I are wrong (may be grammar on post :) ). I will very appriciate who help me make this more perfect by contribute in this project.</p>
+
+<h3>What will I build?</h3>
+
+<p>As said above, I want to build something like Udemy or Khanacademy &hellip; but much simpler. This source will deploy for Vietnamese project. I want this can help others to published their courses. This will very helpful for teachers can teach by this site.
+My simple idea is teachers can manage your resource like video, document or create quiz (or addition activity I will build later) in this site as playlist for one subject. So students just need follow this resource to gain knowledges. May be they follow with teachers who teach them on class, or whoever they like.</p>
+
+<h3>Brain storm:</h3>
+
+<p>This site will have courses. Each course will contains sections which will continuously contains videos, documents or activities.</p>
+
+<ol>
+<li>Homepage: List of courses (show info, description and link to course introduction)</li>
+<li>Course Introduction: More detail on course info, teachers and a button to start learning.</li>
+<li>Course Learning: This will show activities, items to learn like what Udemy or Khanacademy do.</li>
+<li>Course Creating: This is a form which teachers can input their resource to make a course live.</li>
+<li>Others but maybe later like discustion &hellip;</li>
+</ol>
+
+
+<h3>Next</h3>
+
+<p>In next post, I will talk more detail about Mean.js and Data modeling of Mongodb. It&rsquo;s a something new a have learnt.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://piolab.github.io//github/blog/2014/05/07/hello-world/"/>
+    <updated>2014-05-07T08:46:15+00:00</updated>
+    <id>http://piolab.github.io//github/blog/2014/05/07/hello-world</id>
+    <content type="html"><![CDATA[<p>Test
+We are developers from Viet Nam. This blog noted progress what we learnt to build awesome Education Software.</p>
+
+<p>But, first we need to learn markdown to write blog.</p>
+
+<p>Thanks!</p>
+]]></content>
+  </entry>
+  
+</feed>
